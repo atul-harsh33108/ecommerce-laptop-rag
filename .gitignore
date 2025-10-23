@@ -1,0 +1,7 @@
+venv/
+data/chroma_db/
+.env
+*.pyc
+__pycache__/
+*.csv  # Optional: exclude data if large
+data-donotuse/
